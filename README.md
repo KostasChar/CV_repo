@@ -1,1 +1,1 @@
-[View CV PDF](.CV_Chartsias.pdf)
+[View CV PDF](CV_Chartsias.pdf)
